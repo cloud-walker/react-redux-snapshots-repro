@@ -1,6 +1,7 @@
 import React from 'react'
 
-import {Dummy} from '../Dummy'
+import Dummy from '../Dummy'
+// import {Dummy} from '../Dummy'
 
 export const App = () => {
   return (

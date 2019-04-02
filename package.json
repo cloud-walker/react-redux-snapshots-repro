@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "parcel source/index.html",
+    "test": "jest"
+  },
   "private": true,
   "dependencies": {
     "@babel/core": "^7.4.3",
